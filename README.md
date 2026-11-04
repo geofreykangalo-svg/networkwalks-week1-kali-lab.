@@ -1,5 +1,7 @@
 # networkwalks-week1-kali-lab.
 My first project1
+<img width="1800" height="645" alt="image" src="https://github.com/user-attachments/assets/2cfd1f93-e87c-4335-a96c-c3678bcd3342" />
+
 
 Networkwalks Cybersecurity Internship — Week 1
 Project
@@ -46,6 +48,7 @@ sudo nmcli connection down "Wired connection 1"
 sudo nmcli connection up "Wired connection 1"
 7. Snapshot
 Took a clean snapshot of the finished lab so it can be restored at any time.
+
 
 Verification
 ip a                  # confirm 10.0.0.2/24
