@@ -62,5 +62,7 @@ sudo nmcli connection down "Wired connection 1"
 sudo nmcli connection up "Wired connection 1"
 Outcome
 A working, isolated Kali Linux lab with a static IP, Internet access, file and clipboard sharing, and a clean snapshot ready for pentesting practice.
+<img width="1800" height="1050" alt="image" src="https://github.com/user-attachments/assets/a77de4b1-5c73-401f-be64-856444294a17" />
+
 
 
